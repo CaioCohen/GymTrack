@@ -1,0 +1,182 @@
+[
+  {
+    "id": "costas-biceps",
+    "title": "Costas, bíceps",
+    "exercises": [
+      {
+        "id": "puxada-polia",
+        "name": "Puxada Polia Barra",
+        "image": "puxadaPoliaBarra",
+        "reps": "3x12",
+        "weight": 47,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Remada-Maquina",
+        "name": "Remada Máquina",
+        "image": "remadaMaquina",
+        "reps": "3x12",
+        "weight": 45,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Crucifixo-Inverso",
+        "name": "Crucifixo Inverso",
+        "image": "crucifixoInverso",
+        "reps": "3x12",
+        "weight": 35,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Bíceps-Máquina-Alternada",
+        "name": "Bíceps Máquina Alternada",
+        "image": "bicepsMaquina",
+        "reps": "3x12",
+        "weight": 32.5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Rosca-Direta-Halter",
+        "name": "Rosca Direta Halter",
+        "image": "roscaDiretaHalter",
+        "reps": "3x12",
+        "weight": 32.5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Abdominal-maquina",
+        "name": "Abdominal Máquina",
+        "image": "abdominalMaquina",
+        "reps": "3x12",
+        "weight": 42.5,
+        "checked": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "peito-triceps",
+    "title": "Peito, tríceps",
+    "exercises": [
+      {
+        "id": "Supino-Reto-com-Halter",
+        "name": "Supino Reto com Halter",
+        "image": "supinoRetoComHalter",
+        "reps": "3x12",
+        "weight": 18,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Supino-livre-inclinado",
+        "name": "Supino Livre Inclinado",
+        "image": "supinoLivreInclinado",
+        "reps": "3x12",
+        "weight": 5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "crucifixo-maquina",
+        "name": "crucifixo Máquina",
+        "image": "crucifixoMaquina",
+        "reps": "3x12",
+        "weight": 52.5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Triceps-maquina",
+        "name": "Triceps Máquina",
+        "image": "tricepsMaquina",
+        "reps": "3x12",
+        "weight": 45,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Triceps-frances-polia",
+        "name": "Triceps Frances Polia",
+        "image": "tricepsFrancesPolia",
+        "reps": "3x12",
+        "weight": 15,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Abdominal-Infra-Paralela",
+        "name": "Abdominal Infra Paralela",
+        "image": "abdominalInfraParalela",
+        "reps": "3x15",
+        "weight": 15,
+        "checked": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "pernas-ombros",
+    "title": "Pernas, ombros",
+    "exercises": [
+      {
+        "id": "Cadeira-Extensora",
+        "name": "Cadeira Extensora",
+        "image": "cadeiraExtensora",
+        "reps": "3x12",
+        "weight": 62.5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Cadeira-Abdutora",
+        "name": "Cadeira Abdutora",
+        "image": "cadeiraAbdutora",
+        "reps": "3x15",
+        "weight": 100,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Leg-Press-45",
+        "name": "Leg Press 45",
+        "image": "legPress45",
+        "reps": "3x12",
+        "weight": 35,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Elevacao-lateral-Halter",
+        "name": "Elevação Lateral Halter",
+        "image": "elevacaoLateralHalter",
+        "reps": "3x12",
+        "weight": 9,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Remada-alta-polia",
+        "name": "Remada Alta Polia",
+        "image": "remadaAltaPolia",
+        "reps": "3x12",
+        "weight": 17.5,
+        "checked": false,
+        "notes": ""
+      },
+      {
+        "id": "Desenvolvimento-maquina",
+        "name": "Desenvolvimento Máquina",
+        "image": "desenvolvimentoMaquina",
+        "reps": "3x12",
+        "weight": 15,
+        "checked": false,
+        "notes": ""
+      }
+    ]
+  }
+]
